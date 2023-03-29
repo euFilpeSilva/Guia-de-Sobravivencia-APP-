@@ -1,4 +1,4 @@
-# prototypação
+# Prototipação
 
 
 - demonstração das primeiras telas criadas.
